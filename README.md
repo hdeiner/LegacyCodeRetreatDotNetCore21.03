@@ -1,7 +1,7 @@
 ﻿# TimeTeller
 ------------
 
-This project was originally written for the XP Days Ukraine 2017 conference, and represents the second state of code for the "Improving Your Organization’s Technical Prowess With Legacy Code Retreats" talk.  https://github.com/hdeiner/xp2017ukraine03
+This project was originally written for the XP Days Ukraine 2017 conference, and represents the third state of code for the "Improving Your Organization’s Technical Prowess With Legacy Code Retreats" talk.  https://github.com/hdeiner/xp2017ukraine03
 
 Please do not judge me on this code alone. ☺ 
 
